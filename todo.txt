@@ -1,0 +1,14 @@
+
+ TODO
+
+  - add element to list
+  - remove element from list
+
+ IN PROGRESS
+
+
+
+ DONE
+
+
+
